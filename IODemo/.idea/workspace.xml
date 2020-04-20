@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="190a317c-6728-4762-90b5-69296e7f7b3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toString</find>
+      <find>reset</find>
+      <find>mmap</find>
+      <find>address</find>
+      <find>get(</find>
+      <find>map(</find>
+      <find>connect(</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program_Files\maven\repository" />
+        <option name="mavenHome" value="D:/Program_Files/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program_Files\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhM7vOt25AMSw0flLfjMEAtDPd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574923921881" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\workspaceidea\IODemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IOTest1">
+    <configuration name="IOTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ybzy.demo.IOTest1" />
+      <module name="IO2Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ybzy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOTest2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ybzy.demo.IOTest2" />
+      <module name="IO2Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ybzy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ybzy.demo.IOTest2" />
+      <module name="IO1Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ybzy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOTest3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ybzy.demo.IOTest3" />
+      <module name="IO1Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ybzy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ybzy.demo.IOTest3" />
+      <module name="IO2Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ybzy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IOTest3 (1)" />
+      <item itemvalue="Application.IOTest2" />
+      <item itemvalue="Application.IOTest2 (1)" />
+      <item itemvalue="Application.IOTest3" />
+      <item itemvalue="Application.IOTest1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IOTest1" />
+        <item itemvalue="Application.IOTest3" />
+        <item itemvalue="Application.IOTest2 (1)" />
+        <item itemvalue="Application.IOTest3 (1)" />
+        <item itemvalue="Application.IOTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="190a317c-6728-4762-90b5-69296e7f7b3e" name="Default Changelist" comment="" />
+      <created>1571721288830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571721288830</updated>
+      <workItem from="1571721291841" duration="8385000" />
+      <workItem from="1571796258980" duration="8437000" />
+      <workItem from="1571877016629" duration="7753000" />
+      <workItem from="1571917272076" duration="4041000" />
+      <workItem from="1571922727966" duration="99000" />
+      <workItem from="1571989284748" duration="1504000" />
+      <workItem from="1572055199430" duration="7478000" />
+      <workItem from="1572074547762" duration="5535000" />
+      <workItem from="1572143288547" duration="2682000" />
+      <workItem from="1572229868570" duration="6494000" />
+      <workItem from="1572395817484" duration="9837000" />
+      <workItem from="1572505483256" duration="6471000" />
+      <workItem from="1572519941321" duration="1875000" />
+      <workItem from="1572524113307" duration="912000" />
+      <workItem from="1572582565622" duration="868000" />
+      <workItem from="1572594368264" duration="4461000" />
+      <workItem from="1572610015145" duration="4989000" />
+      <workItem from="1572658385749" duration="9047000" />
+      <workItem from="1572761720059" duration="3359000" />
+      <workItem from="1572783090715" duration="3349000" />
+      <workItem from="1572865219544" duration="22486000" />
+      <workItem from="1573005765603" duration="631000" />
+      <workItem from="1573023098212" duration="6533000" />
+      <workItem from="1573048815428" duration="656000" />
+      <workItem from="1573202956672" duration="1197000" />
+      <workItem from="1573273392116" duration="908000" />
+      <workItem from="1573463829524" duration="974000" />
+      <workItem from="1573472702024" duration="1251000" />
+      <workItem from="1573524576608" duration="2446000" />
+      <workItem from="1573534370437" duration="7435000" />
+      <workItem from="1573612100730" duration="2624000" />
+      <workItem from="1573640935201" duration="3010000" />
+      <workItem from="1573693367655" duration="6179000" />
+      <workItem from="1573780150611" duration="8398000" />
+      <workItem from="1573898772717" duration="5307000" />
+      <workItem from="1574055997863" duration="1699000" />
+      <workItem from="1574074752281" duration="3507000" />
+      <workItem from="1574123428883" duration="2299000" />
+      <workItem from="1574129187679" duration="14567000" />
+      <workItem from="1574173762742" duration="2053000" />
+      <workItem from="1574255026424" duration="1350000" />
+      <workItem from="1574301717185" duration="5085000" />
+      <workItem from="1574308073847" duration="951000" />
+      <workItem from="1574323019112" duration="2545000" />
+      <workItem from="1574413969717" duration="2658000" />
+      <workItem from="1574420272454" duration="7864000" />
+      <workItem from="1574561610329" duration="1263000" />
+      <workItem from="1574566090650" duration="7928000" />
+      <workItem from="1574652566791" duration="1911000" />
+      <workItem from="1574664801793" duration="1962000" />
+      <workItem from="1574684095292" duration="599000" />
+      <workItem from="1574731288864" duration="1830000" />
+      <workItem from="1574763283873" duration="6389000" />
+      <workItem from="1574812894241" duration="7610000" />
+      <workItem from="1574824732281" duration="4007000" />
+      <workItem from="1574835830685" duration="6111000" />
+      <workItem from="1574858325529" duration="2613000" />
+      <workItem from="1574903815870" duration="12541000" />
+      <workItem from="1581493710673" duration="14049000" />
+      <workItem from="1582435304701" duration="13000" />
+      <workItem from="1582438451299" duration="1450000" />
+      <workItem from="1584594515083" duration="2940000" />
+      <workItem from="1584675575782" duration="668000" />
+      <workItem from="1587391647674" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Inspections" timestamp="1584594548400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1584594548400" />
+    <state x="233" y="2" key="#Project_Structure" timestamp="1584671950740">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1584671950740" />
+    <state width="1237" height="102" key="GridCell.Tab.0.bottom" timestamp="1584671714190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584671714190" />
+    <state width="1237" height="102" key="GridCell.Tab.0.center" timestamp="1584671714190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584671714190" />
+    <state width="1237" height="102" key="GridCell.Tab.0.left" timestamp="1584671714190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584671714190" />
+    <state width="1237" height="102" key="GridCell.Tab.0.right" timestamp="1584671714190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584671714190" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587391648300">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587391648300" />
+    <state x="371" y="111" key="extract.method.dialog" timestamp="1581569707696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="111" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1581569707696" />
+    <state x="28" y="0" key="new project wizard" timestamp="1584671941027">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584671941027" />
+    <state x="363" y="258" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584671654544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="258" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680@0.0.1280.680" timestamp="1584671654544" />
+  </component>
+</project>

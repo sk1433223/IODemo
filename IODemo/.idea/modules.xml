@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileDemo/FileDemo.iml" filepath="$PROJECT_DIR$/FileDemo/FileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO1Module/IO1Module.iml" filepath="$PROJECT_DIR$/IO1Module/IO1Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO2Module/IO2Module.iml" filepath="$PROJECT_DIR$/IO2Module/IO2Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO3Module/IO3Module.iml" filepath="$PROJECT_DIR$/IO3Module/IO3Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO4Module/IO4Module.iml" filepath="$PROJECT_DIR$/IO4Module/IO4Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO5Module/IO5Module.iml" filepath="$PROJECT_DIR$/IO5Module/IO5Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IODemo.iml" filepath="$PROJECT_DIR$/IODemo.iml" />
+    </modules>
+  </component>
+</project>
